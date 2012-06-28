@@ -2,3 +2,7 @@ waterbear.tmproj
 nbproject/
 .*.swp
 waterbear.bbprojectd
+.metadata/
+.DS_Store
+.project
+.*
